@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
     <student>
-        <picture>path/to/picture1.jpg</picture>
+        <picture>Picture.jpg</picture>
         <name>Eddrick Lloyd B. Salapong</name>
         <course>BSIT</course>
         <yearLevel>3A-G2</yearLevel>
@@ -9,7 +9,7 @@
         <schoolYear>2025-2026</schoolYear>
     </student>
     <student>
-        <picture>path/to/picture2.jpg</picture>
+        <picture>Picture.jpg</picture>
         <name>Student 2</name>
         <course>BSIT</course>
         <yearLevel>3A-G2</yearLevel>
@@ -17,7 +17,7 @@
         <schoolYear>2025-2026</schoolYear>
     </student>
     <student>
-        <picture>path/to/picture3.jpg</picture>
+        <picture>Picture.jpg</picture>
         <name>Student 3</name>
         <course>BSIT</course>
         <yearLevel>3A-G2</yearLevel>
@@ -25,7 +25,7 @@
         <schoolYear>2025-2026</schoolYear>
     </student>
     <student>
-        <picture>path/to/picture4.jpg</picture>
+        <picture>Picture.jpg</picture>
         <name>Student 4</name>
         <course>BSIT</course>
         <yearLevel>3A-G2</yearLevel>
@@ -33,7 +33,7 @@
         <schoolYear>2025-2026</schoolYear>
     </student>
     <student>
-        <picture>path/to/picture5.jpg</picture>
+        <picture>Picture.jpg</picture>
         <name>Student 5</name>
         <course>BSIT</course>
         <yearLevel>3A-G2</yearLevel>
@@ -41,7 +41,7 @@
         <schoolYear>2025-2026</schoolYear>
     </student>
     <student>
-        <picture>path/to/picture6.jpg</picture>
+        <picture>Picture.jpg</picture>
         <name>Student 6</name>
         <course>BSIT</course>
         <yearLevel>3A-G2</yearLevel>
@@ -49,7 +49,7 @@
         <schoolYear>2025-2026</schoolYear>
     </student>
     <student>
-        <picture>path/to/picture7.jpg</picture>
+        <picture>Picture.jpg</picture>
         <name>Student 7</name>
         <course>BSIT</course>
         <yearLevel>3A-G2</yearLevel>
@@ -57,7 +57,7 @@
         <schoolYear>2025-2026</schoolYear>
     </student>
     <student>
-        <picture>path/to/picture8.jpg</picture>
+        <picture>Picture.jpg</picture>
         <name>Student 8</name>
         <course>BSIT</course>
         <yearLevel>3A-G2</yearLevel>
@@ -65,7 +65,7 @@
         <schoolYear>2025-2026</schoolYear>
     </student>
     <student>
-        <picture>path/to/picture9.jpg</picture>
+        <picture>Picture.jpg</picture>
         <name>Student 9</name>
         <course>BSIT</course>
         <yearLevel>3A-G2</yearLevel>
@@ -73,7 +73,7 @@
         <schoolYear>2025-2026</schoolYear>
     </student>
     <student>
-        <picture>path/to/picture10.jpg</picture>
+        <picture>Picture.jpg</picture>
         <name>Student 10</name>
         <course>BSIT</course>
         <yearLevel>3A-G2</yearLevel>
