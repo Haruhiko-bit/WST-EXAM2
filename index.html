@@ -8,20 +8,36 @@
         body {
             font-family: Arial, sans-serif;
             font-size: 12px;
+            background-color: #f0f8ff;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            color: #0056b3;
         }
         .student {
-            border: 3px solid #000;
+            border: 3px solid #0056b3;
+            border-radius: 10px;
             padding: 10px;
             margin: 10px;
             display: flex;
             flex-wrap: wrap;
+            background-color: #e6f2ff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         .student img {
             max-width: 100px;
+            max-height: 100px;
             margin-right: 10px;
+            border-radius: 50%;
+            object-fit: cover;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
         }
         .student div {
             flex: 1;
+            text-align: center;
         }
         @media (max-width: 600px) {
             .student {
@@ -63,11 +79,11 @@
                     studentDiv.innerHTML = `
                         <img src="${picture}" alt="${name}">
                         <div>
-                            <p>Name: ${name}</p>
-                            <p>Course: ${course}</p>
-                            <p>Year Level/Section: ${yearLevel}</p>
-                            <p>Adviser: ${adviser}</p>
-                            <p>School Year: ${schoolYear}</p>
+                            <p><strong>Name:</strong> ${name}</p>
+                            <p><strong>Course:</strong> ${course}</p>
+                            <p><strong>Year Level/Section:</strong> ${yearLevel}</p>
+                            <p><strong>Adviser:</strong> ${adviser}</p>
+                            <p><strong>School Year:</strong> ${schoolYear}</p>
                         </div>
                     `;
                     studentContainer.appendChild(studentDiv);
